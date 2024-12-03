@@ -1,0 +1,11 @@
+"vscode_custom_css.imports": [
+        "file:///Users/raphael/Documents/vscode/custom.css"
+    ],
+
+Dans le Settings.json
+Accessible dans les settings
+Utiliser Dracula theme
+
+Admin : linux : sudo code
+Windows : clic-droit admin
+macOS : sudo /Applications/Visual\ Studio\ Code.app/Contents/MacOS/Electron
